@@ -88,7 +88,7 @@ Engenheiro de Software com **5 anos de experiência** entregando soluções comp
 
 <div align="center">
 <div align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=crkautza&theme=blue-navy&hide_border=true" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=bryanbarukdev&theme=blue-navy&hide_border=true" />
 </div>
 </div>
 
@@ -96,9 +96,9 @@ Engenheiro de Software com **5 anos de experiência** entregando soluções comp
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/crkautza/crkautza/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/crkautza/crkautza/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://github.com/crkautza/crkautza/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bryanbarukdev/bryanbarukdev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bryanbarukdev/bryanbarukdev/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/bryanbarukdev/bryanbarukdev/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
@@ -107,13 +107,13 @@ Engenheiro de Software com **5 anos de experiência** entregando soluções comp
 ## Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/crkautza" target="_blank">
+  <a href="https://www.linkedin.com/in/bryanbarukdev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:crkautza@gmail.com" target="_blank">
+  <a href="mailto:bryanbarukdev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://gitlab.com/crkautza" target="_blank">
+  <a href="https://gitlab.com/bryanbarukdev" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@malogro" target="_blank">
