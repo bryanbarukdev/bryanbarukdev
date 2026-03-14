@@ -107,16 +107,16 @@ Engenheiro de Software com **5 anos de experiência** entregando soluções comp
 ## Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bryanbarukdev" target="_blank">
+  <a href="www.linkedin.com/in/bryanbaruk" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:bryanbarukdev@gmail.com" target="_blank">
+  <a href="mailto:bryanbaruck@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://gitlab.com/bryanbarukdev" target="_blank">
+  <a href="https://gitlab.com/bryanbaruck" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@malogro" target="_blank">
+  <a href="https://www.youtube.com/@Atipic0_" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
