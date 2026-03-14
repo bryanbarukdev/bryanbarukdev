@@ -2,10 +2,13 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Bryan+Baruk+%7C+Software+Engineer;Especialista+PHP+%26+Flutter;Arquitetura+de+Sistemas+Escal%C3%A1veis" alt="Typing SVG" />
   </a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%"/>
 </h1>
 
+
 <p align="center">
-  <img src="https://img.shields.io/badge/8%2B%20anos%20de%20experiência-3B82F6?style=for-the-badge&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/5%2B%20anos%20de%20experiência-3B82F6?style=for-the-badge&logoColor=white" height="28" />
+  
   <img src="https://img.shields.io/badge/Engenheiro%20de%20Software-000000?style=for-the-badge&logo=codeium&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Full%20Stack-64748B?style=for-the-badge&logo=framework&logoColor=white" height="28" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bryanbarukdev.bryanbarukdev" height="28" />
@@ -17,7 +20,7 @@
 ## Sobre Mim
 
 
-Engenheiro de Software com **8 anos de experiência** entregando soluções completas e escaláveis. Atuação estratégica em sistemas de mobilidade urbana, backend automotivo e aplicações mobile de alto impacto.
+Engenheiro de Software com **5 anos de experiência** entregando soluções completas e escaláveis. Atuação estratégica em sistemas de mobilidade urbana, backend automotivo e aplicações mobile de alto impacto.
 
 - **Sistemas Core:** APIs robustas com Slim Framework, Twig e PostgreSQL/MySQL
 - **Mobile Engineering:** Flutter & Dart com foco em UI/UX e estado reativo
@@ -25,63 +28,71 @@ Engenheiro de Software com **8 anos de experiência** entregando soluções comp
 - **Base Sólida:** Sempre apresentei notas excepcionais em todo o ensino médio.
 
 ---
+
 ## Entregas Relevantes
 
 | Projeto | Tecnologias | Impacto |
 |:--------|:------------|:--------|
-| Carris Metropolitana | PHP, Slim, PostgreSQL | APIs core e gestão do transporte de Lisboa |
-| GWM Brasil | PHP, JavaScript, Smart TV | Backend e interfaces para concessionárias |
-| Reebok Sports Club | Flutter, Dart | Modernização completa do app oficial |
-| Mini Passageiros | Full-stack, Gamificação | Jornada de aprendizado interativa |
-| Tônica.ag | Streaming, Infraestrutura | Liderança técnica em eventos corporativos |
-
+| **Carris Metropolitana** | PHP, Slim Framework, PostgreSQL | Desenvolvimento de APIs core e painéis de gestão para o sistema de transporte de Lisboa |
+| **GWM Brasil** | PHP, JavaScript, Integração Smart TV | Arquitetura de sistemas backend e interfaces para a rede de concessionárias |
+| **Reebok Sports Club** | Flutter, Dart, Gerenciamento de Estado | Modernização técnica e estética completa do aplicativo oficial |
+| **Mini Passageiros** | Full-stack, PHP, Flutter, Gamificação | Criação de layout, APIs e banco de dados para jornada de aprendizado interativa |
+| **Tônica.ag** | Streaming, Infraestrutura de Vídeo, Áudio | Liderança técnica em transmissões ao vivo e operações para eventos corporativos |
 </div>
 
 ---
 
 ## Stack Tecnológica
 
-### Desenvolvimento
-<br/>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,flutter,dart,js,python,react,mysql,postgres,html,css,jquery,wordpress&perline=8" />
+<table align="center">
+  <tr>
+    <td width="33%">
+      <h3 align="center">Desenvolvimento</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=php,flutter,dart,js,python,react,mysql,postgres,html,css,jquery,wordpress&perline=4" />
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">Ferramentas</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,figma,postman,vscode,androidstudio,obsidian,linux,arch,kali&perline=4" />
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">Sistemas Operacionais</h3>
+      <p align="center">
+        <img style="margin-bottom:100px" src="https://skillicons.dev/icons?i=windows,apple,linux&perline=4" />
+      </p>
+      <p align="center">
+        <sub><strong>Windows:</strong> Domínio avançado</sub><br/>
+        <sub><strong>macOS:</strong> Fluência total</sub><br/>
+        <sub><strong>Linux:</strong> Breve Exp.</sub>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
+## Idiomas
+  
+<p align="center">
+  <img src="https://img.shields.io/badge/Português(BR)-Nativo-009c3b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Inglês-Fluente-00247d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Espanhol-Fluente-aa151b?style=for-the-badge" />
 </p>
-
-
-### Ferramentas & Infraestrutura
-<br/>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,figma,postman,vscode,androidstudio,obsidian,sublime,linux,arch,kali&perline=8" />
-</p>
-
-
-### Sistemas Operacionais
-<br/>
-
-| Sistema | Nível de Proficiência |
-|:--------|:---------------------:|
-| Windows | Domínio avançado e completo |
-| macOS | Fluência total no ecossistema Apple |
-| Linux | Experiência com Arch Linux e Kali Linux |
-
-
 
 ---
 
 ## Estatísticas
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=crkautza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=crkautza&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=crkautza&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=crkautza&theme=blue-navy&hide_border=true" />
+</div>
 </div>
 
-<br/>
+
 
 <div align="center">
   <picture>
@@ -89,20 +100,6 @@ Engenheiro de Software com **8 anos de experiência** entregando soluções comp
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/crkautza/crkautza/blob/output/github-contribution-grid-snake.svg">
     <img alt="github-snake" src="https://github.com/crkautza/crkautza/blob/output/github-contribution-grid-snake-dark.svg">
   </picture>
-</div>
-
----
-
-## Perfil Profissional
-
-<div align="center">
-
-| | |
-|:---|:---|
-| Localização | Encarnación, Paraguai |
-| Idiomas | Português (Nativo) \| Inglês (Fluente) \| Espanhol (Fluente) |
-| Competências | Arquitetura de Software \| Liderança Técnica \| UI/UX \| Mixagem de Áudio |
-
 </div>
 
 ---
@@ -127,9 +124,9 @@ Engenheiro de Software com **8 anos de experiência** entregando soluções comp
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="80%" />
 </div>
 
 <div align="center">
-  <sub>Código limpo. Arquitetura sólida. Resultados reais.</sub>
+  <sub><span style="color: #3B82F6;">Código limpo</span> + <span style="color: #3B82F6;">Arquitetura sólida</span> = <span style="color: #3B82F6;">Resultados reais</span></sub>
 </div>
