@@ -1,90 +1,135 @@
-# Caio Richard | Software Engineer
-**Especialista PHP & Flutter | Infraestrutura e Sistemas Escaláveis**
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Bryan+Baruk+%7C+Software+Engineer;Especialista+PHP+%26+Flutter;Arquitetura+de+Sistemas+Escal%C3%A1veis" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=0099ff&center=true&vCenter=true&width=600&lines=Desenvolvedor+Mobile+Pleno;Software+Engineer;Especialista+PHP+%26+Flutter;Arquitetura+de+Sistemas" />
+  <img src="https://img.shields.io/badge/8%2B%20anos%20de%20experiência-3B82F6?style=for-the-badge&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Engenheiro%20de%20Software-000000?style=for-the-badge&logo=codeium&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Full%20Stack-64748B?style=for-the-badge&logo=framework&logoColor=white" height="28" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bryanbarukdev.bryanbarukdev" height="28" />
 </p>
 
----
-
-### Sobre Mim
-
-Engenheiro de Software com **8 anos de experiência prática** no desenvolvimento de soluções end-to-end. Atuação sólida no desenvolvimento de sistemas core para mobilidade urbana, arquitetura de APIs para o setor automotivo e modernização de aplicações mobile de alta escala.
-
-* **Sistemas Core:** Desenvolvimento de APIs robustas utilizando Slim Framework, Twig e integração com PostgreSQL/MySQL.
-* **Engenharia Mobile:** Domínio de Flutter e Dart para fluxos complexos de UI e gerenciamento de estado.
-* **Operações Técnicas:** Liderança técnica em transmissões ao vivo, mixagem de áudio e infraestrutura de vídeo (GWM Live Pernambuco).
-* **Fundação Técnica:** Matemática Avançada (Programa Acadêmico em Portugal).
 
 ---
 
-### Experiência e Impacto
+## Sobre Mim
 
-| Instituição | Escopo de Atuação |
-| :--- | :--- |
-| **Carris Metropolitana** | Desenvolvimento de APIs core e painéis de gestão para o sistema de transporte de Lisboa. |
-| **GWM Brasil** | Arquiteto de sistemas backend e interfaces Smart TV para a rede de concessionárias. |
-| **Reebok Sports Club** | Responsável pela modernização técnica e estética do app oficial utilizando Flutter. |
-| **Balanzzy** | Implementação de arquitetura de APIs para a jornada gamificada Mini Passageiros. |
-| **Tônica.ag** | Liderança técnica de operações e infraestrutura de streaming para eventos corporativos. |
+
+Engenheiro de Software com **8 anos de experiência** entregando soluções completas e escaláveis. Atuação estratégica em sistemas de mobilidade urbana, backend automotivo e aplicações mobile de alto impacto.
+
+- **Sistemas Core:** APIs robustas com Slim Framework, Twig e PostgreSQL/MySQL
+- **Mobile Engineering:** Flutter & Dart com foco em UI/UX e estado reativo
+- **Abordagem:** Sólida experiência em arquitetar, executar e validar soluções completas com autonomia total.
+- **Base Sólida:** Sempre apresentei notas excepcionais em todo o ensino médio.
+
+---
+## Entregas Relevantes
+
+| Projeto | Tecnologias | Impacto |
+|:--------|:------------|:--------|
+| Carris Metropolitana | PHP, Slim, PostgreSQL | APIs core e gestão do transporte de Lisboa |
+| GWM Brasil | PHP, JavaScript, Smart TV | Backend e interfaces para concessionárias |
+| Reebok Sports Club | Flutter, Dart | Modernização completa do app oficial |
+| Mini Passageiros | Full-stack, Gamificação | Jornada de aprendizado interativa |
+| Tônica.ag | Streaming, Infraestrutura | Liderança técnica em eventos corporativos |
+
+</div>
 
 ---
 
-### Domínio Tecnológico
+## Stack Tecnológica
 
-**Desenvolvimento e Frameworks**
+### Desenvolvimento
+<br/>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,flutter,dart,js,python,react,mysql,postgres,jquery,html,css,wordpress" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=php,flutter,dart,js,python,react,mysql,postgres,html,css,jquery,wordpress&perline=8" />
 </p>
 
-**Ferramental e Infraestrutura**
+
+### Ferramentas & Infraestrutura
+<br/>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux,arch,kali,git,github,gitlab,figma,postman,vscode,androidstudio,obsidian,sublime" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,figma,postman,vscode,androidstudio,obsidian,sublime,linux,arch,kali&perline=8" />
 </p>
 
-**Sistemas Operacionais e Ambientes**
-* **Microsoft Windows:** Estação base para operações de vídeo e liderança técnica na GWM.
-* **macOS:** Ambiente principal de desenvolvimento mobile (Reebok Club).
-* **Linux:** Experiência com Arch Linux e Kali Linux para segurança e infraestrutura.
+
+### Sistemas Operacionais
+<br/>
+
+| Sistema | Nível de Proficiência |
+|:--------|:---------------------:|
+| Windows | Domínio avançado e completo |
+| macOS | Fluência total no ecossistema Apple |
+| Linux | Experiência com Arch Linux e Kali Linux |
+
+
 
 ---
 
-### Estatísticas
+## Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crkautza&theme=tokyonight&hide_border=true" width="450px" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=crkautza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=crkautza&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github.com/crkautza/crkautza/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=crkautza&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/crkautza/crkautza/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/crkautza/crkautza/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://github.com/crkautza/crkautza/blob/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 ---
 
-### Informações Adicionais
+## Perfil Profissional
 
-* **Idiomas:** Português (Nativo), Inglês (Fluente Profissional), Espanhol (Fluente Profissional).
-* **Localização Atual:** Encarnación, Paraguai.
-* **Competências Complementares:** Responsividade, IA do Cursor, PhpMyAdmin, Twig e Mixagem de Áudio.
+<div align="center">
 
----
+| | |
+|:---|:---|
+| Localização | Encarnación, Paraguai |
+| Idiomas | Português (Nativo) \| Inglês (Fluente) \| Espanhol (Fluente) |
+| Competências | Arquitetura de Software \| Liderança Técnica \| UI/UX \| Mixagem de Áudio |
 
-### Networking
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/crkautza" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:crkautza@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://gitlab.com/crkautza" target="blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@malogro" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
-</p>
+</div>
 
 ---
+
+## Conecte-se comigo
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <a href="https://www.linkedin.com/in/crkautza" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:crkautza@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://gitlab.com/crkautza" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@malogro" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+</div>
+
+<div align="center">
+  <sub>Código limpo. Arquitetura sólida. Resultados reais.</sub>
+</div>
